@@ -8,13 +8,10 @@ Construyo aplicaciones completas: desde la interfaz **UI/UX moderna** hasta la *
 ¡Me encantan los retos que me ayudan a seguir aprendiendo!
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:ff9bd3,100:bb86fc&text=Hola!%20Soy%20Karlis%20(˶ᵔ%20ᵕ%20ᵔ˶)&fontColor=ffffff&fontSize=28" alt="banner rosa" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:ff9bd3,100:bb86fc&text=Hola%20(˶ᵔ%20ᵕ%20ᵔ˶)&fontColor=ffffff&fontSize=28" alt="banner rosa" />
 
 </div>
 
-<p align="center">
-  <a href="mailto:karlisamaldonador@gmail.com">Email</a>
-</p>
 
 ---
 
@@ -38,7 +35,7 @@ Construyo aplicaciones completas: desde la interfaz **UI/UX moderna** hasta la *
 
 ---
 
-## 🐱 Proyectos destacados
+## 🌸 Proyectos destacados
 
 **🐾 Gatitos — App de adopción**  
 - **Frontend:** Cards de gatos con info detallada, acordeones y formularios.  
@@ -46,7 +43,7 @@ Construyo aplicaciones completas: desde la interfaz **UI/UX moderna** hasta la *
 - **Extras:** Autenticación con roles de admin para gestión completa.  
   [Pagina](https://gatitos-delta.vercel.app/) · [Código](https://github.com/karlismr/gatitos)
 
-**🌸 Portafolio Kawaii**  
+** 💼 Portafolio**  
 - **Frontend:** Página personal con diseño oscuro y gradientes rosas.  
 - **UI/UX:** Micro-interacciones y responsive design.  
   [Pagina](https://portafolioweb-sandy.vercel.app/) · [Código](https://github.com/karlismr/Portafolio)
