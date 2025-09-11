@@ -44,12 +44,12 @@ Construyo aplicaciones completas: desde la interfaz **UI/UX moderna** hasta la *
 - **Frontend:** Cards de gatos con info detallada, acordeones y formularios.  
 - **Backend:** API con endpoints para registrar gatos, actualizar estado de adopción y conexión a MongoDB.  
 - **Extras:** Autenticación con roles de admin para gestión completa.  
-[Demo](gatitos-delta.vercel.app) · [Código](https://github.com/karlismr/gatitos)
+  [Pagina](https://gatitos-delta.vercel.app/) · [Código](https://github.com/karlismr/gatitos)
 
 **🌸 Portafolio Kawaii**  
 - **Frontend:** Página personal con diseño oscuro y gradientes rosas.  
 - **UI/UX:** Micro-interacciones y responsive design.  
-[Demo](portafolioweb-sandy.vercel.app) · [Código](https://github.com/karlismr/Portafolio)
+  [Pagina](https://portafolioweb-sandy.vercel.app/) · [Código](https://github.com/karlismr/Portafolio)
 
 ---
 
