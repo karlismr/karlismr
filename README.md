@@ -37,13 +37,13 @@ Construyo aplicaciones completas: desde la interfaz **UI/UX moderna**, hasta la 
 
 ## 🌸 Proyectos destacados
 
-** 🐾 Gatitos — App de adopción **  
+🐾 ** Gatitos — App de adopción **  
 - **Frontend:** Cards de gatos con info detallada, acordeones y formularios.  
 - **Backend:** API con endpoints para registrar gatos, actualizar estado de adopción y conexión a MongoDB.  
 - **Extras:** Autenticación con roles de admin para gestión completa.  
   [Pagina](https://gatitos-delta.vercel.app/) · [Código](https://github.com/karlismr/gatitos)
 
-** 💼 Portafolio **  
+💼 ** Portafolio **  
 - **Frontend:** Página personal con diseño oscuro y gradientes rosas.  
 - **UI/UX:** Micro-interacciones y responsive design.  
   [Pagina](https://portafolioweb-sandy.vercel.app/) · [Código](https://github.com/karlismr/Portafolio)
