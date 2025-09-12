@@ -4,7 +4,7 @@
 
 **Fullstack Developer · Next.js · React · Tailwind · Node.js · MongoDB**
 
-Construyo aplicaciones completas: desde la interfaz **UI/UX moderna** hasta la **lógica de servidor y conexión con bases de datos**.  
+Construyo aplicaciones completas: desde la interfaz **UI/UX moderna**, hasta la **lógica de servidor** y **conexión con bases de datos**.  
 ¡Me encantan los retos que me ayudan a seguir aprendiendo!
 
 <!-- Banner -->
