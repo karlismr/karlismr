@@ -5,7 +5,7 @@
 **Fullstack Developer · Next.js · React · Tailwind · Node.js · MongoDB**
 
 Construyo aplicaciones completas: desde la interfaz **UI/UX moderna**, hasta la **lógica de servidor** y **conexión con bases de datos**.  
-¡Me encantan los retos que me ayudan a seguir aprendiendo!
+¡Me encantan los retos que me ayudan a seguir aprendiendo! Soy autodidacta.
 
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:ff9bd3,100:bb86fc&text=Hola%20(˶ᵔ%20ᵕ%20ᵔ˶)&fontColor=ffffff&fontSize=28" alt="banner rosa" />
