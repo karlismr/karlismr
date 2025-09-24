@@ -19,17 +19,20 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 ## 🧰 Tech Stack
 
 ### 🌸 Frontend
-- **React / Next.js 15** → interfaces rápidas y responsivas.  
+- **HTML5** → estructura semántica de páginas web.  
+- **JavaScript (ES6+)** → base del desarrollo frontend moderno.  
 - **TypeScript** → tipado estricto y escalabilidad.  
+- **React** → librería de componentes para UIs dinámicas.  
+- **Next.js 15** → framework de React con SSR, rutas y optimización.  
 - **TailwindCSS** → estilos modernos y reutilizables.  
 - **NextAuth** → autenticación con roles (owner, admin, user).  
 
 ### ⚙️ Backend
 - **Node.js / Next.js API Routes** → endpoints REST para CRUD de datos.  
+- **Python + Django** → desarrollo backend robusto y escalable.  
 - **MongoDB + Mongoose** → modelado y consultas de la base de datos.  
 - **SWR** → manejo eficiente del estado y caché de datos.  
-- **Cloudinary / Vercel Blob** → gestión de imágenes y archivos.
-- **Python + Django** → desarrollo backend robusto y escalable.  
+- **Cloudinary / Vercel Blob** → gestión de imágenes y archivos.  
 
 ### 🚀 DevOps y otros
 - **Vercel** → *deploy* y configuración de entornos.  
