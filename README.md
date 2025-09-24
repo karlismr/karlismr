@@ -16,27 +16,43 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 
 ---
 
-## 🧰 Tech Stack
 
-### 🌸 Frontend
-- **HTML5** → estructura semántica de páginas web.  
-- **JavaScript (ES6+)** → base del desarrollo frontend moderno.  
-- **TypeScript** → tipado estricto y escalabilidad.  
-- **React** → librería de componentes para UIs dinámicas.  
-- **Next.js 15** → framework de React con SSR, rutas y optimización.  
-- **TailwindCSS** → estilos modernos y reutilizables.  
-- **NextAuth** → autenticación con roles (owner, admin, user).  
+## 🧰 Stack & Nivel (1–5)
 
-### ⚙️ Backend
-- **Node.js / Next.js API Routes** → endpoints REST para CRUD de datos.  
-- **Python + Django** → desarrollo backend robusto y escalable.  
-- **MongoDB + Mongoose** → modelado y consultas de la base de datos.  
-- **SWR** → manejo eficiente del estado y caché de datos.  
-- **Cloudinary / Vercel Blob** → gestión de imágenes y archivos.  
+**Escala:** 1 = Básico · 2 = Inicial · 3 = Intermedio · 4 = Sólido · 5 = Avanzado  
+<sub>*(Autoevaluación)*</sub>
 
-### 🚀 DevOps y otros
-- **Vercel** → *deploy* y configuración de entornos.  
-- **Git/GitHub** → control de versiones y trabajo colaborativo.  
+### 🖥️ Lenguajes
+| Tecnología | ¿Para qué lo uso? | Nivel |
+|---|---|:--:|
+| **HTML5** | Estructura semántica de páginas | **3** |
+| **JavaScript (ES6+)** | Lógica e interactividad en la web | **3** |
+| **TypeScript** | Tipado estático y escalabilidad | **2** |
+| **Python** | Backend y automatización | **1** |
+
+### 🎨 Frontend
+| Tecnología | ¿Para qué lo uso? | Nivel |
+|---|---|:--:|
+| **React** | UIs dinámicas basadas en componentes | **3** |
+| **Next.js** | SSR/SSG, rutas y optimización | **2** |
+| **TailwindCSS** | Estilos modernos y reutilizables | **3** |
+| **NextAuth** | Autenticación con roles | **2** |
+
+### ⚙️ Backend & Datos
+| Tecnología | ¿Para qué lo uso? | Nivel |
+|---|---|:--:|
+| **Node.js** | Servidor y APIs | **2** |
+| **Next.js API Routes** | Endpoints REST dentro de Next | **2** |
+| **Python + Django** | Backend robusto y escalable | **2** |
+| **MongoDB** | Base de datos NoSQL | **2** |
+| **Mongoose** | Modelos, esquemas y validación | **1** |
+| **Cloudinary / Vercel Blob** | Gestión de imágenes/archivos | **2** |
+
+### 🚀 DevOps & Herramientas
+| Tecnología | ¿Para qué lo uso? | Nivel |
+|---|---|:--:|
+| **Vercel** | Deploy y entornos | **3** |
+| **Git / GitHub** | Control de versiones y colaboración | **3** |
 
 ---
 
