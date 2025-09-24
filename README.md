@@ -2,7 +2,7 @@
 
 # ✨ Karlis Maldonado ✨
 
-**Fullstack Developer · Next.js · React · Tailwind · MongoDB**
+**Fullstack Developer**
 
 Soy una persona autodidacta.  
 Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la **lógica de servidor** y **conexión con bases de datos**.  
