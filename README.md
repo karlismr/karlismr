@@ -69,6 +69,13 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 - **UI/UX:** Microinteracciones y *responsive design*.  
   [Página](https://portafolioweb-sandy.vercel.app/)
 
+💬 **Asistente personal — (En curso)**  
+- **Frontend:** Next.js 15 + React + TypeScript + Tailwind; autenticación con NextAuth y roles.  
+- **Backend:** API en Python (FastAPI/Django) para notas, recordatorios y memoria conversacional; MongoDB.  
+- **UI/UX:** Chat estilo WhatsApp, temas oscuro/rosado, microinteracciones; enfoque en accesibilidad y mobile-first.  
+- **Alcance:** Guardar notas y tareas, crear recordatorios con fecha/hora, “personalidad” configurable (mamá/novia/hermana), historial exportable.  
+- **Roadmap:** Notificaciones push/email, adjuntos y búsqueda semántica.  
+  [Página] *(Próximamente)*
 ---
 
 ## 🤝 Contacto
