@@ -28,7 +28,8 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 - **Node.js / Next.js API Routes** → endpoints REST para CRUD de datos.  
 - **MongoDB + Mongoose** → modelado y consultas de la base de datos.  
 - **SWR** → manejo eficiente del estado y caché de datos.  
-- **Cloudinary / Vercel Blob** → gestión de imágenes y archivos.  
+- **Cloudinary / Vercel Blob** → gestión de imágenes y archivos.
+- **Python + Django** → desarrollo backend robusto y escalable.  
 
 ### 🚀 DevOps y otros
 - **Vercel** → *deploy* y configuración de entornos.  
