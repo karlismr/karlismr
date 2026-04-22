@@ -4,7 +4,7 @@
 
 **Fullstack Developer**
 
-Soy una persona autodidacta.  
+
 Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la **lógica de servidor** y **conexión con bases de datos**.  
 ¡Me encantan los retos que me ayudan a seguir aprendiendo! 
 
