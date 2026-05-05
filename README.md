@@ -82,8 +82,8 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 - **Alcance:** - Gestión integral de notas y tareas con persistencia de datos.
 🔹Sistema de recordatorios con fecha y hora exacta.
 🔹Integración de notificaciones automáticas vía Telegram mediante el uso de Webhooks y Make.com.
-🔹Motor de "personalidad" configurable (Mamá/Novia/Hermana) basado en prompts dinámicos para la IA. 
-  [Página](https://asistente-1-iek0.onrender.com/)
+🔹Motor de "personalidad" configurable (Mamá/Novia/Hermana) basado en prompts dinámicos para la IA.
+[Página](https://asistente-1-iek0.onrender.com/)
 ---
 
 ## 🤝 Contacto
