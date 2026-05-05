@@ -28,7 +28,7 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 | **HTML5** | Estructura semántica de páginas | **3** |
 | **JavaScript (ES6+)** | Lógica e interactividad en la web | **3** |
 | **TypeScript** | Tipado estático y escalabilidad | **2** |
-| **Python** | Backend y automatización | **1** |
+| **Python** | Backend y automatización | **3** |
 
 ### 🎨 Frontend
 | Tecnología | ¿Para qué lo uso? | Nivel |
@@ -37,20 +37,25 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 | **Next.js** | SSR/SSG, rutas y optimización | **2** |
 | **TailwindCSS** | Estilos modernos y reutilizables | **3** |
 | **NextAuth** | Autenticación con roles | **2** |
+| **PWA** | Instalabilidad y experiencia nativa | **3** |
 
 ### ⚙️ Backend & Datos
 | Tecnología | ¿Para qué lo uso? | Nivel |
 |---|---|:--:|
 | **Node.js** | Servidor y APIs | **2** |
 | **Next.js API Routes** | Endpoints REST dentro de Next | **2** |
-| **Python + Django** | Backend robusto y escalable | **2** |
+| **Python + Django** | Backend robusto y escalable | **3** |
 | **MongoDB** | Base de datos NoSQL | **2** |
 | **Mongoose** | Modelos, esquemas y validación | **1** |
 | **Cloudinary / Vercel Blob** | Gestión de imágenes/archivos | **2** |
+| **PostgreSQL (Neon)** | Base de datos relacional en la nube | **3** |
 
 ### 🚀 DevOps & Herramientas
 | Tecnología | ¿Para qué lo uso? | Nivel |
 |---|---|:--:|
+| **Docker** | Containerización y paridad de entornos | **3** |
+| **Render** | Despliegue de aplicaciones y servicios | **4** |
+| **Make (Integromat)** | Cron Jobs y automatización de flujos | **3** |
 | **Vercel** | Deploy y entornos | **3** |
 | **Git / GitHub** | Control de versiones y colaboración | **3** |
 
@@ -69,13 +74,16 @@ Construyo aplicaciones completas: desde la **interfaz UI/UX moderna**, hasta la 
 - **UI/UX:** Microinteracciones y *responsive design*.  
   [Página](https://portafolioweb-sandy.vercel.app/)
 
-💬 **Asistente personal — (En curso)**  
-- **Frontend:** Next.js 15 + React + TypeScript + Tailwind; autenticación con NextAuth y roles.  
-- **Backend:** API en Python (FastAPI/Django) para notas, recordatorios y memoria conversacional; MongoDB.  
-- **UI/UX:** Chat estilo WhatsApp, temas oscuro/rosado, microinteracciones; enfoque en accesibilidad y mobile-first.  
-- **Alcance:** Guardar notas y tareas, crear recordatorios con fecha/hora, “personalidad” configurable (mamá/novia/hermana), historial exportable.  
-- **Roadmap:** Notificaciones push/email, adjuntos y búsqueda semántica.  
-  [Página] *(Próximamente)*
+💬 **Asistente personal (PWA)**  
+- **Frontend:** Capa de presentación desarrollada con Django Templates, HTML5 y JavaScript nativo para la gestión dinámica del chat.  
+- **Backend:** Arquitectura robusta en Python + Django, integrando la API de Gemini AI para el procesamiento de lenguaje natural y memoria de contexto.  
+- **UI/UX:** Interfaz inspirada en WhatsApp con temas oscuro/rosado; diseño responsivo y capacidades de PWA para instalación en dispositivos.
+- **DevOps:** Containerización con Docker y despliegue automatizado en Render. 
+- **Alcance:** - Gestión integral de notas y tareas con persistencia de datos.
+🔹Sistema de recordatorios con fecha y hora exacta.
+🔹Integración de notificaciones automáticas vía Telegram mediante el uso de Webhooks y Make.com.
+🔹Motor de "personalidad" configurable (Mamá/Novia/Hermana) basado en prompts dinámicos para la IA. 
+  [Página](https://asistente-1-iek0.onrender.com/)
 ---
 
 ## 🤝 Contacto
